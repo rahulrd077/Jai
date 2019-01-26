@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="projpackager.TestDemo.Retryfailed"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="projpackager.TestDemo.Tet">
+        <methods>
+          <include name="Secondtmethod"/>
+        </methods>
+      </class> <!-- projpackager.TestDemo.Tet -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
