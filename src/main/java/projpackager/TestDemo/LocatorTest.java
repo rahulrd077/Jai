@@ -8,6 +8,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 //new comment
+
+//second comment
 public class LocatorTest {
 
 	public static void main(String[] args) throws InterruptedException {
