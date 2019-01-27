@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-
+//new comment
 public class LocatorTest {
 
 	public static void main(String[] args) throws InterruptedException {
